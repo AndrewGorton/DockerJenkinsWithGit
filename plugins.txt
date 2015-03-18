@@ -2,4 +2,8 @@ scm-api:latest
 git-client:latest
 git:latest
 ansicolor:latest
+multiple-scms:latest
+github-api:latest
+github:latest
+
 
