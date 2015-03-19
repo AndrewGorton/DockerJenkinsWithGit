@@ -30,5 +30,6 @@ Now create the Dockerfile
 ## Running
 
 ```bash
-docker run -p 8080:8080 andrewgortonuk/dockerjenkinswithgit
+docker pull andrewgortonuk/dockerjenkinswithgit:1.0
+docker run -p 8080:8080 andrewgortonuk/dockerjenkinswithgit:1.0
 ```
