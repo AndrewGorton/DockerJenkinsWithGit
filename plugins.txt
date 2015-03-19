@@ -1,3 +1,4 @@
+ws-cleanup:latest
 scm-api:latest
 git-client:latest
 git:latest
