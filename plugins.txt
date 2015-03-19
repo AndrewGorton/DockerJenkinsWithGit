@@ -5,5 +5,3 @@ ansicolor:latest
 multiple-scms:latest
 github-api:latest
 github:latest
-
-
