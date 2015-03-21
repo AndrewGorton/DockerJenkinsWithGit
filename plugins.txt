@@ -1,4 +1,5 @@
 ws-cleanup:latest
+swarm:latest
 scm-api:latest
 git-client:latest
 git:latest
