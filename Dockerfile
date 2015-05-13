@@ -10,6 +10,5 @@ ADD https://updates.jenkins-ci.org/download/plugins/ansicolor/latest/ansicolor.h
 ADD https://updates.jenkins-ci.org/download/plugins/multiple-scms/latest/multiple-scms.hpi /usr/share/jenkins/ref/plugins/multiple-scms.hpi
 ADD https://updates.jenkins-ci.org/download/plugins/github-api/latest/github-api.hpi /usr/share/jenkins/ref/plugins/github-api.hpi
 ADD https://updates.jenkins-ci.org/download/plugins/github/latest/github.hpi /usr/share/jenkins/ref/plugins/github.hpi
-ADD https://updates.jenkins-ci.org/download/plugins/openJDK-native-plugin/1.1/openJDK-native-plugin.hpi /usr/share/jenkins/ref/plugins/openJDK-native-plugin.hpi
 USER root
 RUN chown -R jenkins /usr/share/jenkins/ref/plugins
